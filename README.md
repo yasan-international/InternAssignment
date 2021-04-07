@@ -15,6 +15,11 @@ You may setup deployment of your code on this repository through GitHub but, in 
 We will use React JS for the Front-End in this project and module.scss files to style the pages.
 A basic react and styles page has been already created for your understanding.
 
+If not done already, you will need to setup **node and npm or yarn** on your system to be able to run this project.
+After doing this, to run the project, open a Terminal or Command Prompt in the folder InternAssignment/sand-and-sea and run:
+  1. **npm install**
+  2. **npm start** / **yarn start**
+
 **Sand & Sea Yoga and Wellness Retreat**
 
 Sand & Sea is a Pune based company which organizes yoga and wellness retreats across the country.
