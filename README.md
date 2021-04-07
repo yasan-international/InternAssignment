@@ -42,6 +42,12 @@ It must contain:
 
 Find an online api for yoga / fitness related activities and perform a GET api call, from home.js, to fetch a list of these activities and display them on our Home Page.
 
+Remember that your coding style, code maintainability and code reuse skills play an important role.
+
+Suggestions:
+  1. Use Camel Casing as the Naming Convention.
+  2. Reuse and Modularize code as much as possible. (Do not overdo it either)
+  3. Maintain code legibility by proper indentation, commenting where required and having a max word count per line. (Unlike this :P)
 
 **The deadline for this assigment is Saturday 10th April 2021 End of the Day.**
 
