@@ -49,7 +49,7 @@ Suggestions:
   2. Reuse and Modularize code as much as possible. (Do not overdo it either)
   3. Maintain code legibility by proper indentation, commenting where required and having a max word count per line. (Unlike this :P)
 
-**The deadline for this assigment is Saturday 10th April 2021 End of the Day.**
+**The deadline for this assigment is Sunday 11th April 2021 4pm IST(EXTENDED).**
 
 Good Luck! Happy Coding!
 
